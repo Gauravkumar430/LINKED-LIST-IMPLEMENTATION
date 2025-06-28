@@ -77,5 +77,5 @@ Flexibility: Easily extendable to include features like insertion at position, r
 
 Clarity: The code is clean and easy to understand for both beginners and intermediate learners.
 
-*OUTPUT*:
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/aaa236b6-b44f-4d34-a679-b1e973cb833b)
 
